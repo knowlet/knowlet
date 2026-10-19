@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="68" viewBox="0 0 1200 68" role="img" aria-label="Build. Break. Understand.">
+<path d="M0 1H1200" stroke="#24373c"/>
+<path d="M1 24v21 M10 34l12-10 M10 34l12 11" fill="none" stroke="#cbf278" stroke-width="3"/>
+<text x="44" y="42" fill="#9ab1b5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="400" letter-spacing="2" text-anchor="start">BUILD. BREAK. UNDERSTAND.</text>
+<text x="1200" y="42" fill="#9ab1b5" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="400" letter-spacing="2" text-anchor="end">KNOWLET</text>
+</svg>

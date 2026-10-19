@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="192" viewBox="0 0 1200 192" role="img" aria-labelledby="rpg-translation-title rpg-translation-description">
+<title id="rpg-translation-title">RPG Dynamic Translation — Creative Tools</title>
+<desc id="rpg-translation-description">Live language switching for RPG Maker MV/MZ. JAVASCRIPT / RPG MAKER / JSON.</desc>
+<rect x="0.5" y="0.5" width="1199" height="191" rx="12" fill="#f3f6f2" stroke="#d1ddd7"/>
+<text x="32" y="37" fill="#536864" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="400" letter-spacing="0.5">04</text>
+<path d="M76 27v138" stroke="#d1ddd7"/>
+<rect x="32" y="62" width="13" height="2" rx="1" fill="#497323"/>
+<text x="110" y="37" fill="#497323" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="400" letter-spacing="2">CREATIVE TOOLS</text>
+<text x="110" y="77" fill="#122d2a" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="600" letter-spacing="-0.8">RPG Dynamic Translation</text>
+<text x="110" y="115" fill="#536864" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" letter-spacing="0">Live language switching for RPG Maker MV/MZ.</text>
+<text x="110" y="152" fill="#536864" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" font-weight="400" letter-spacing="1.1">JAVASCRIPT / RPG MAKER / JSON</text>
+<g transform="translate(1017 42)" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M0 10h69v56H0Z" stroke="#007e78"/><path d="M0 23h69" stroke="#007e78"/><path d="M8 17h3m5 0h3" stroke="#007e78"/><path d="M14 39h28M14 47h19" stroke="#536864"/><rect x="39" y="41" width="69" height="56" rx="3" fill="#f3f6f2" stroke="#497323"/><path d="M39 54h69M47 48h3m5 0h3" stroke="#497323"/><path d="M53 69h39M53 78h24" stroke="#536864"/><path d="M81 15h16v16m-5-5 5 5 5-5M29 89H13V74m-5 5 5-5 5 5" stroke="#007e78"/></g>
+<g transform="translate(1144 27)" fill="none" stroke="#536864" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M0 14 14 0M0 0h14v14"/></g>
+</svg>

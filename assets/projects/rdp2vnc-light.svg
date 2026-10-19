@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="192" viewBox="0 0 1200 192" role="img" aria-labelledby="rdp2vnc-title rdp2vnc-description">
+<title id="rdp2vnc-title">rdp2vnc — Systems</title>
+<desc id="rdp2vnc-description">A Rust bridge from RDP clients to VNC desktops. RUST / RDP / RFB.</desc>
+<rect x="0.5" y="0.5" width="1199" height="191" rx="12" fill="#f3f6f2" stroke="#d1ddd7"/>
+<text x="32" y="37" fill="#536864" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="400" letter-spacing="0.5">01</text>
+<path d="M76 27v138" stroke="#d1ddd7"/>
+<rect x="32" y="62" width="13" height="2" rx="1" fill="#497323"/>
+<text x="110" y="37" fill="#497323" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="13" font-weight="400" letter-spacing="2">SYSTEMS</text>
+<text x="110" y="77" fill="#122d2a" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="600" letter-spacing="-0.8">rdp2vnc</text>
+<text x="110" y="115" fill="#536864" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="400" letter-spacing="0">A Rust bridge from RDP clients to VNC desktops.</text>
+<text x="110" y="152" fill="#536864" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" font-weight="400" letter-spacing="1.1">RUST / RDP / RFB</text>
+<g transform="translate(1000 54)" fill="none" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><g stroke="#536864"><rect x="0" y="28" width="38" height="30" rx="4"/><path d="M19 58v9M9 67h20"/><rect x="98" y="28" width="38" height="30" rx="4"/><path d="M117 58v9M107 67h20"/></g><path d="M38 43h20m20 0h20" stroke="#007e78"/><rect x="58" y="32" width="20" height="22" rx="3" stroke="#497323"/><path d="M65 38 69 43l-4 5" stroke="#497323"/><path d="M19 21V9h98v12" stroke="#d1ddd7" stroke-dasharray="3 5"/><circle cx="19" cy="43" r="3" fill="#007e78" stroke="none"/><circle cx="117" cy="43" r="3" fill="#497323" stroke="none"/></g>
+<g transform="translate(1144 27)" fill="none" stroke="#536864" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M0 14 14 0M0 0h14v14"/></g>
+</svg>
